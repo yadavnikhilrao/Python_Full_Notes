@@ -1,0 +1,20 @@
+WARNING:root:This is warning message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+WARNING:root:This is warning message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+WARNING:root:This is warning message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+WARNING:root:This is warning message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+WARNING:root:This is warning message
+ERROR:root:This is error message
+CRITICAL:root:This is critical message
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Temp\ipykernel_13208\3787361950.py", line 7, in <cell line: 4>
+    print(x/y)
+ZeroDivisionError: division by zero
